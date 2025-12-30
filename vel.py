@@ -1,0 +1,4 @@
+print("Welcome to my program")
+name = input("What is your name")
+town = input("Where do you come from")
+print("Welcome once more",name,"from the town of",town,"to the town of douala")
