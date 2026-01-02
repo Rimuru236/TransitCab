@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+print("hello world")
+print("This is made on ivy's branch")
+print("This was made on master branch")
+=======
 from math_utils import add
 
 print("Welcome to Math App")
@@ -100,3 +105,4 @@ print("Sum:", add(2, 3))
 # Pull main frequently
 
 # Merge often
+>>>>>>> 6b3ebb93532f8f696c02c6ac987b2bcd21357764
